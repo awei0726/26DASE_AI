@@ -1,3 +1,5 @@
 .idea/
 *.pdf
 *.md
+!README.md
+!readme.md
